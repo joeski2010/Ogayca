@@ -14,7 +14,7 @@ Esta es una aplicación para la OGAYCA.
 Oficina General de Tecnologia Informática y Comunicaciones.
 </author>
 
-<icon src="img/icon.png" />
+<icon src="img/iconi2.png" />
 
 <access origin="*" />
 <access origin="*" subdomains="true" />
